@@ -28,7 +28,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd addtocart
+  cd add-to-cart
 ```
 
 Install dependencies
